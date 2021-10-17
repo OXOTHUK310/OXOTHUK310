@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @OXOTHUK310
 - 👀 I’m interested in ml, iot, cpp , front end
 - 🌱 I’m currently learning js
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m looking to collaborate on ...
 - 📫 How to reach me OXOTHUK310@gmail.com
 
 <!---
